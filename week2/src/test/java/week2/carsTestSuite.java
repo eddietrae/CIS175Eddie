@@ -1,3 +1,8 @@
+/**
+ * @author Trae Eddie - tmeddie
+ * CIS175 - Spring 2021
+ * 2/4/2021
+ */
 package week2;
 import org.junit.runner.*;
 import org.junit.runners.*;
